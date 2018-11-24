@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1519025088 source:e:\dipto - 2015-16\5th semester\artificial intelligence lab\ucs\main.cpp
+	<iostream>
+	<vector>
+	"priorityQueue.cpp"
+
+1519022284 e:\dipto - 2015-16\5th semester\artificial intelligence lab\ucs\priorityqueue.cpp
+	"priorityQueue.h"
+
+1519022084 e:\dipto - 2015-16\5th semester\artificial intelligence lab\ucs\priorityqueue.h
+	<iostream>
+	<vector>
+	<cstdio>
+	<string>
+
+1519022284 source:e:\dipto - 2015-16\5th semester\artificial intelligence lab\ucs\priorityqueue.cpp
+	"priorityQueue.h"
+

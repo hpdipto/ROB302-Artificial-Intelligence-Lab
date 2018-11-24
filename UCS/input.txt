@@ -1,0 +1,21 @@
+EnQ 10
+EnQ 9
+EnQ 8
+EnQ 7
+EnQ 6
+EnQ 5
+EnQ 4
+EnQ 3
+EnQ 2
+EnQ 1
+DeQ
+DeQ
+DeQ
+DeQ
+DeQ
+DeQ
+DeQ
+DeQ
+DeQ
+DeQ
+quit

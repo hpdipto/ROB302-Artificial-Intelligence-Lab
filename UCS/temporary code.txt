@@ -1,0 +1,28 @@
+#include <iostream>
+#include "priorityQueue.cpp"
+using namespace std;
+
+int main()
+{
+    priorityQueue<int> pq;
+    string command = " ";
+
+    freopen("input.txt", "r", stdin);
+
+    while(command != "quit") {
+        cin >> command;
+        if(command == "EnQ") {
+            int n;
+            cin >> n;
+            pq.enqueu(n);
+        }
+        else if(command == "DeQ")
+            pq.dequeu();
+        else if(command == "Print")
+            cout << pq.front() << endl;
+        else
+            break;
+    }
+
+    return 0;
+}

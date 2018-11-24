@@ -1,0 +1,50 @@
+oradea zerind 71
+oradea sibiu 151
+zerind arad 75
+arad sibiu 140
+arad timisora 118
+sibiu fagaras 99
+sibiu rimnicu_vilcea 80
+timisora lugoj 111
+lugoj mehadia 70
+lugoj drobeta 75
+drobeta craiova 120
+craiova rimnicu_vilcea 146
+craiova pitesti 138
+rimnicu_vilcea pitesti 97
+pitesti bucharest 101
+fagaras bucharest 211
+bucharest giurgin 90
+bucharest urziceni 85
+urziceni hirsova 98
+hirsova eforie 86
+urziceni vaslui 142
+vaslui jasi 92
+jasi neamt 87
+
+
+
+
+output:
+Enter goal and destination city: arad bucharest
+418
+oradea: $146
+zerind: $75
+sibiu: $140
+arad: $0
+timisora: $118
+fagaras: $239
+rimnicu_vilcea: $220
+lugoj: $229
+mehadia: $299
+drobeta: $304
+craiova: $366
+pitesti: $317
+bucharest: $418
+giurgin: $508
+urziceni: $503
+hirsova: $601
+eforie: $687
+vaslui: $645
+jasi: $737
+neamt: $824
